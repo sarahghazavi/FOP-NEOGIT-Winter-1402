@@ -2,7 +2,7 @@
 
 **A Custom Version Control System Inspired by Git**
 
-> Implemented by *Sara Ghazavi*
+> Developed by *Sara Ghazavi*
 > Sharif University of Technology – Fall 1402
 
 ---
